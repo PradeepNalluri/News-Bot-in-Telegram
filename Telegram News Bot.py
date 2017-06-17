@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Mar  7 19:24:58 2017
-
-@author: Pradeep 
-"""
+#Authors Pradeep,Preetham
 ###
 import urllib2
 import json
