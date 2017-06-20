@@ -3,4 +3,5 @@ A Simple News Bot in Telegram
 
 
 
-Authors: Preetam Dasari     Pradeep Kumar Nalluri
+Authors: Pradeep Kumar Nalluri,
+Preetham Dasari
